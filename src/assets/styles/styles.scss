@@ -1,0 +1,19 @@
+$primary-color: #21118D;
+$secondary-color: #979797;
+$error-color: #D42C51;
+
+.f-18{
+    font-size: 18px !important;
+}
+
+.f-24{
+    font-size: 24px !important;
+}
+
+.text-primary{
+   color: $primary-color !important;
+}
+
+.error-msg-class{
+    color: $error-color !important;
+}

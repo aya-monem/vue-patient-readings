@@ -1,0 +1,31 @@
+.header-icon-container{
+    background-color: #21118D;
+     height: 85px !important;
+     max-width: 85px !important;
+}
+.width-btn{
+    min-width: 60px !important;
+    padding: 0 13px !important;
+}
+
+/* Adjust placeholder styling */
+.custom-input input::placeholder {
+    color: #b0bec5; /* Light gray color */
+  }
+  .custom-input .v-input__control {
+    font-size: 16px; /* Adjust font size */
+    font-weight: normal;
+  }
+  
+  .input-container{
+    position:relative;
+  }
+
+  .uom-inside-input{
+    position: absolute;
+    top: 25%;
+    right: 3%;
+    font-size: 13px;
+    font-weight: 700;
+    color: grey;
+  }
